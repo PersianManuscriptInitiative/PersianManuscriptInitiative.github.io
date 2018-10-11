@@ -11,22 +11,22 @@ The workshop will bring together technical specialists from the Perseus Digital 
 
 Please email the Roshan Institute for Persian Studies coordinator, Samar Ata (sata@umd.edu), if you have any questions.
 
-DETAILS
-Where: Jimenez Hal, University of Maryland, College Park
+## DETAILS
 
-When: November 4-5
+*Where: Jimenez Hal, University of Maryland, College Park*
 
- 
+*When: November 4-5*
 
-Proudly Presented by:
+**Proudly Presented by:**
 
-Roshan Institute for Persian Studies at UMD
-Perseus Project (Tufts University)
-School of Library and Information Science at KSU
-Arts and Humanities Center for Synergy and School of Languages, Literatures, and Cultures at UMD
+* Roshan Institute for Persian Studies at UMD    
+* Perseus Project (Tufts University)    
+* School of Library and Information Science at KSU
+* Arts and Humanities Center for Synergy and School of Languages, Literatures, and Cultures at UMD
 
-CONFERENCE SCHEDULE
-Friday November 4th
+### CONFERENCE SCHEDULE
+
+*Friday November 4th*
 
 8:30a - 9:00a
 
@@ -64,7 +64,7 @@ Lunch
 
 2:00p  - 2:30p
 
-Day #1 Planning Session
+**Day #1 Planning Session**
 
 CITL Collaborative Classroom / Jimenez Hall 1205
 
@@ -102,7 +102,7 @@ Roshan Institute / Jimenez Hall 1220
 
 9:00a - 9:30a
 
-Day #2 Planning Session
+**Day #2 Planning Session**
 
 CITL Collaborative Classroom / Jimenez Hall 1205
 
