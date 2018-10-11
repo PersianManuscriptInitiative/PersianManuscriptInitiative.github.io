@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Manuscripts in the 21st Century Workshop (Nov. 4th-5th, 2016)
-subtitle: Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com
-date: 2016-05-20 21:11:27
-author: jekyll
+subtitle: 
+date: 2016-10-1 21:11:27
+author: PMI
 ---
 We are excited to announce that we will be hosting a 2-day workshop called "Manuscripts in the 21st Century" at the University of Maryland, College Park, Nov. 4-5!     
 
