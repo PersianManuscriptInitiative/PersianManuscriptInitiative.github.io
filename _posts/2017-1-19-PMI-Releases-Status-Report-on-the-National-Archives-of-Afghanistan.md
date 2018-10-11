@@ -1,0 +1,34 @@
+---
+layout: post
+title: PMI Releases Status Report on the National Archives of Afghanistan
+subtitle:
+date: 2017-1-19 21:11:27
+author: PMI
+---
+
+The National Archive of Afghanistan (NAA) is in one of the most important repositories of Persian and Arabic manuscripts in the region. It is home to a large collection of high-value endangered manuscripts, including 6,550 manuscripts, 1,200 calligraphy and miniature sheets, and more than 70,000 historical documents. It contains priceless historical treasures such as several early Qur’ans in Kufic script, an unparalleled collection of Pashto manuscripts, numerous richly illuminated manuscripts, a copy of Jami’s Nafahat al-’Ons that is believed to be in his handwriting, and a farman from Sultan Husayn Mirza Bayaqra (1438- 1506).
+
+This report details the findings of the team led by Francis Richard and comprised of Behruz Amini, Noshad Rokni, and Amir Mansuri in (1) conducting a preliminary curatorial evaluation and conservation assessment of the manuscript collection of the National Archive of Afghanistan (NAA), and (2) providing basic training in preservation and cataloging to the staff of the NAA. There are three emergency priorities for the NAA to address: (1) cataloging the entire collection according to current standards, (2) preparing a plan for conservation and preservation, and (3) instituting a digitization program as soon as possible to preserve the invaluable cultural heritage in the NAA collection.
+![National Archive of Afghanistan team with Francis Richard](/img/NAA.jpg)
+
+The team recommends that the NAA develop a full conservation and preservation plan for addressing existing concerns and preventing future damage, and provides a list of suggested measures that can be immediately implemented at the archive. The materials in the collections need to be cleaned, the method for storing materials should be standardized to avoid damaging the materials through crowding and improper storage, the facilities should implement an integrated pest management (IPM) plan to eliminate pests, temperature and humidity levels need to be correctly maintained during any improvements to the space to ensure that no inactive microorganism spores will grow, and protective boxes should be built for many of the items. Additionally, many of the materials need to be stored and transported flat, and the use of suitable cushions and cradles for the opening of manuscripts and books should be made mandatory for staff and patrons.
+
+A brief proposal outlines the advantages of acquiring or constructing an additional building to house the archival materials in order to free more space in the existing building for the housing and care of the manuscript materials.
+
+Creating a complete, detailed, and standardized catalog of the entire collection is a top priority. The catalog should first be written in Persian/Dari, Pashtu, and English. A catalog will make the contents of the collections known to more scholars, especially beyond Afghanistan, and thus benefit scholarship and raise the global profile of the NAA. The manuscript collection can be categorized according to five types of materials: Qurans, tafsirs of the Quran and other religious texts, historical works, literary works, and Pashtu works.
+
+A list of 300 high priority texts which represent the best of the collection was compiled by the team. These 300 items were deemed to be especially important for the following reasons: the age of the text; the quality of the text’s materials, illuminations, etc.; the rarity of the text or the style it represents; the importance or noteworthiness of the text’s binding and calligraphy, the historical significance of the handwritten notes; and the text’s representation of specific scribal schools or decoration ateliers. These materials should be among the first to be preserved, cataloged, and digitized. Additional personnel will be needed to work on the catalog, and it recommended that three managers be hired to oversee the cataloging of, respectively, the Arabic, Persian/Dari and Pashtu texts. The team offers suggestions for how the NAA might fund and staff the endeavor including partnering with foreign institutions and hiring graduate students.
+
+In conjunction with the cataloging project, a policy and schedule needs to be established for digitizing the 300 priority items. The digitization project could be completed in two stages: (1) the creation of an “NAA portal” website that will showcase the collections (run by the NAA under the supervision of the Afghan Ministry of Culture and Information and connected to the Persian Manuscript Initiative led by Kent State University and Roshan Institute for Persian Studies at the University of Maryland), and (2) the initiation of a digitization program for the most important manuscripts, and subsequently the rest of the collection. This digitization program will result in the long term preservation of the entire collection and will enable the production of copies in print and online. The Persian Manuscript Initiative and the Hill Manuscript Museum and Library (HMML) have already offered to run a pilot digitization and digital training program with a strong likelihood of subsequent expansion and renewal (pending the approval of the Minister of Culture and Information and the NAA director).  
+
+The team led training for the NAA staff including workshops on general codicology, codicology of Persian and Arabic manuscripts, conservation, and preservation. Further specialized training would be advantageous and could possibly be conducted in Iran where the conditions, concerns, and materials are similar. This additional specialized training should include archiving, classification, laboratory procedures for conservation, bookbinding, and documentation.
+
+Resources and tools that will aid in carrying out the recommended steps for moving forward include computers and software, copies of catalogs from libraries containing similar materials, in addition to tools and materials for conservation and preservation such as acid-free paper, boxes and cleaning solution, disposable gloves, soft brushes, bookbinding tools, glues, wash tubs, disinfecting chambers for files and manuscripts, etc.
+
+Finally, the report emphasizes that the manuscripts at the NAA are a valuable collection that needs to be preserved for the future. The contents of the collection need to be presented to the world through the new catalog and proposed digitization project.
+
+Read the full report [here](/img/Report_on_the_State_of_the_National_Archive_of_Afghanistan_and_its_Manuscript_Collection_Revised_final.pdf).
+
+![National Archive of Afghanistan Report](/img/NAAreport.jpg)
+
+**THIS PROJECT WAS MADE POSSIBLE WITH THE GENEROUS SUPPORT OF THE ISLAMIC MANUSCRIPT ASSOCIATION. TO LEARN MORE, VISIT THEIR [WEBSITE](http://www.islamicmanuscript.org/home.aspx).**
