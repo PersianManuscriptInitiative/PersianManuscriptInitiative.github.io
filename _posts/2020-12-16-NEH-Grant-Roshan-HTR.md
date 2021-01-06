@@ -5,7 +5,7 @@ subtitle: A New Project Announcement
 date: 2020-12-16 11:00:00
 author: PMI
 ---
-![NEH Logo](/images/NEH.jpg){:class="img-responsive"}
+![NEH Logo](/img/NEH.jpg){:class="img-responsive"}
 
 The Roshan Initiative in Persian Digital Humanities (PersDig@UMD) is proud to announce that we have received a Level III Digital Humanities Advancement Grant in the amount of $324,571 from the National Endowment for the Humanities for our project entitled, "Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts." Matthew Thomas Miller will serve as the Principal Investigator of this project, with David Smith serving as the co-Principal Investigator. 
  
