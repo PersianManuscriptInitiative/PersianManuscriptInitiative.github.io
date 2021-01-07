@@ -7,9 +7,9 @@ author: PMI
 ---
 We are excited to announce that we will be hosting a 2-day workshop called "Manuscripts in the 21st Century" at the University of Maryland, College Park, Nov. 4-5!     
 
-The workshop will bring together technical specialists from the Perseus Digital Library, Digital Latin Library, Schoenberg Institute for Manuscript Studies (UPenn), Omeka, and the Maryland Institute for Technology in the Humanities to discuss the technical challenges for the creation of an online "manuscript workspace"    
+The workshop will bring together technical specialists from the [Perseids Project](https://www.perseids.org/), [Digital Latin Library](https://digitallatin.org/), [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) (UPenn), [Omeka](https://omeka.org/), and the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/) to discuss the technical challenges for the creation of an online "manuscript workspace."    
 
-Please email the Roshan Institute for Persian Studies coordinator, Samar Ata (sata@umd.edu), if you have any questions.
+Please email the [Roshan Institute for Persian Studies](http://sllc.umd.edu/persian) coordinator, Samar Ata (sata@umd.edu), if you have any questions on logistics, or [Matthew Thomas Miller](https://matthewthomasmiller.github.io/) (mtmiller@umd.edu) for questions on content.
 
 ## DETAILS
 
@@ -19,9 +19,9 @@ Please email the Roshan Institute for Persian Studies coordinator, Samar Ata (sa
 
 **Proudly Presented by:**
 
-* Roshan Institute for Persian Studies at UMD    
-* Perseus Project (Tufts University)    
-* School of Library and Information Science at KSU
+* [Roshan Institute for Persian Studies at UMD](http://sllc.umd.edu/persian)    
+* [Perseids Project](https://www.perseids.org/) (Tufts University)    
+* [School of Library and Information Science at KSU](https://www.kent.edu/iSchool)
 * Arts and Humanities Center for Synergy and School of Languages, Literatures, and Cultures at UMD
 
 ### CONFERENCE SCHEDULE
